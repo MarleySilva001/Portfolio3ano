@@ -1,0 +1,3 @@
+Continuações dos estudos do react native com a criação da camera, app de memorias e mais.
+
+link do Github --> https://github.com/MarleySilva001/react-native
