@@ -1,0 +1,47 @@
+.body{
+    background: linear-gradient(to right bottom, #00365c, #5cb5f5);
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.container{
+    background-color: white;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    border-radius: 4px;
+    width: 350px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.titulo{
+    font-size: 36px;
+    font-weight: 600;
+    margin: 0px 0px 20px 0px;
+    text-align: center;
+}
+
+.temCadastro{
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 18px;
+}
+
+@media screen and (max-width: 600px) {
+    .container{
+        width: 400px;  
+        max-width: 90%;
+    }
+    .temCadastro{
+        font-size: 15px;
+        margin-top: 18px;
+    }
+    
+}

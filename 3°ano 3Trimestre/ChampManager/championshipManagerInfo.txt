@@ -1,0 +1,3 @@
+Em react era necessario desenvolver um site gerenciador de campeonatos de futebol.
+
+Link do Github --> https://github.com/MarleySilva001/ChampionshipManager

@@ -1,0 +1,3 @@
+Nessa atividade foi requisitado que os alunos fizessem um app similar ao Spotify com o React-Native, no projeto além do aplicativo se tem o banco de dados e se utiliza API.
+
+link do Github --> https://github.com/MarleySilva001/spotifakeFullstack
